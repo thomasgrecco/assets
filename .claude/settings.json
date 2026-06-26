@@ -1,0 +1,10 @@
+{
+  "enabledPlugins": {
+    "digim-config@digim": true
+  },
+  "extraKnownMarketplaces": {
+    "digim": {
+      "source": { "source": "github", "repo": "thomasgrecco/claude-config" }
+    }
+  }
+}
